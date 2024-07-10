@@ -1,0 +1,53 @@
+
+#main{
+    height: 640px;
+    width: 700px;
+    border: 14px solid black;
+    margin: 800px;
+    margin-top: 250px;
+    text-align: justify;
+    text-align: center;
+    background: url(./premium_photo-1682124042422-ce7e44280a83.jifi.avif);
+    background-size: auto;
+    background-size: cover;
+    border-radius: 50px;
+}
+#rules{
+    text-align: justify;
+    margin-left: 100px;
+}
+
+#one,#two{
+    justify: space-evenly;
+
+}
+h2{
+    font-size: 40px;
+
+}
+h3{
+    font-size: 30px;
+}
+h4{
+    font-size: x-large;
+}
+input{
+    font-size: 20;
+    height: 30px;
+    width: 250px;
+    border-radius: 50px;
+}
+button{
+    height: 40px;
+    margin-left: 70px;
+    margin-right: 70px;
+    padding: 8px;
+    width: 80px;
+    border-radius: 50px;
+}
+body{
+    background: url(./hack.avif);
+    background-size: auto;
+    background-size: cover;
+}
+
